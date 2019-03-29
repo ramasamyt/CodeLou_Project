@@ -18,6 +18,6 @@ Randoms Pictures from the following APIs
 loremflickr.com for home page picture (containers/home.js)
 picsum.photo for review.js card photos (components/review.js)
 
-Also used React Router for 4 Navigation links.
+Also used React Router for 6 Navigation links.
 
 Thank you.
